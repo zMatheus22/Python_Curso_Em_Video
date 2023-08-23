@@ -1,0 +1,6 @@
+print('\33[30:43m===== Desafio 002 =====\33[m')
+print('Digite abaixo a data de nascimento!')
+dia = input('Dia = ')
+mes = input('Mês = ')
+ano = input('Ano = ')
+print('Você nasceu no dia \33[4:30:43m', dia, 'de', mes, 'de', ano, '\33[m')
